@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mostafa Alaa! 👋</h1>
+<h1 align="center">Hi there, I'm Mostafa! 👋</h1>
  
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Passionate+about+.NET+%26+Angular+%F0%9F%93%A1;Always+Learning+%F0%9F%93%96;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG">
